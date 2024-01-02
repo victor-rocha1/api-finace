@@ -1,11 +1,6 @@
 {
   "transactions": [
     {
-      "id": 1,
-      "name": "Freela",
-      "amount": 300
-    },
-    {
       "name": "Salário",
       "amount": 3200,
       "id": 3
@@ -29,6 +24,16 @@
       "name": "Lanche2",
       "amount": 490,
       "id": 7
+    },
+    {
+      "name": "Conta de água",
+      "amount": -600,
+      "id": 8
+    },
+    {
+      "name": "Conta de água",
+      "amount": -60,
+      "id": 9
     }
   ]
 }
